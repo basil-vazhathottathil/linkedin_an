@@ -1,0 +1,49 @@
+{
+    "job_positions": [
+        {
+            "title": "Software Engineer",
+            "criteria": {
+                "skills": ["Python", "JavaScript", "React", "Node.js"],
+                "experience": "3+ years in software development",
+                "education": "Bachelor's degree in Computer Science or related field",
+                "certifications": ["AWS Certified Developer", "Certified ScrumMaster"]
+            }
+        },
+        {
+            "title": "Data Scientist",
+            "criteria": {
+                "skills": ["Python", "R", "Machine Learning", "Data Analysis"],
+                "experience": "2+ years in data science or related field",
+                "education": "Master's degree in Data Science, Statistics, or related field",
+                "certifications": ["Certified Data Scientist", "TensorFlow Developer Certificate"]
+            }
+        },
+        {
+            "title": "Project Manager",
+            "criteria": {
+                "skills": ["Project Management", "Agile", "Scrum", "Communication"],
+                "experience": "5+ years in project management",
+                "education": "Bachelor's degree in Business Administration or related field",
+                "certifications": ["PMP", "Certified ScrumMaster"]
+            }
+        },
+        {
+            "title": "UX Designer",
+            "criteria": {
+                "skills": ["User Research", "Wireframing", "Prototyping", "Adobe XD"],
+                "experience": "3+ years in UX design",
+                "education": "Bachelor's degree in Design, HCI, or related field",
+                "certifications": ["Certified Usability Analyst", "UX Design Professional"]
+            }
+        },
+        {
+            "title": "Marketing Manager",
+            "criteria": {
+                "skills": ["Digital Marketing", "SEO", "Content Marketing", "Analytics"],
+                "experience": "4+ years in marketing",
+                "education": "Bachelor's degree in Marketing, Business, or related field",
+                "certifications": ["Google Analytics Certified", "HubSpot Content Marketing Certification"]
+            }
+        }
+    ]
+}
